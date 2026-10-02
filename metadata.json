@@ -1,0 +1,6 @@
+{
+  "name": "Street Runner - Cyberpunk Traffic Chase",
+  "description": "High-octane cyberpunk endless runner by Barrystudios. Dash through neon highway traffic, outrun the robotic police enforcer, complete missions, and unlock legendary cyber skins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
